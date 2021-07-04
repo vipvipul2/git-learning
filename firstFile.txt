@@ -4,7 +4,6 @@ class Test {
 	public final static void main(String[] args) {
 		Integer I = 5;
 		int i = 5;
-		if (I.equals(i))
 			System.out.println("t");
 		else
 			System.out.println("f");
