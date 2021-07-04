@@ -7,6 +7,6 @@ class Test {
 		if (I.equals(i))
 			System.out.println("t");
 		else
-			System.out.println("f");
+			//System.out.println("f");
 	}
 }
